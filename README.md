@@ -5,6 +5,10 @@ This is the port of https://github.com/ansman/validate.js.
 The difference between the original version and this one is the removed async functionality.
 Also we added Underscore.js to replace some native js functionality like `map`, `forEach` and `filter`, because the Service Manager has an old JS Engine.
 
+# Documentation
+
+You can find the full documentation here: https://validatejs.org/#validate-js
+
 # Usage
 
 1. Create a new ScriptLibrary named `validatejs`
