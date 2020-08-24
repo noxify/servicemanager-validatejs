@@ -1,3 +1,5 @@
+> Currently unmaintained since I have moved from Microfocus Service Manager to ServiceNow - Sorry guys!
+
 # servicemanager-validatejs
 
 This is the port of https://github.com/ansman/validate.js.
